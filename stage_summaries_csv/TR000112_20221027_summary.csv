@@ -1,0 +1,4 @@
+Analysis Start Time,Analysis End Time,Velocity (km/h),Grade (%),Stage (#),RPE (#),Lactate (mmol/L),VO2 (mL/min),VO2 (mL/min/kg),HR (bpm),RQ,True VO2max? T/F,Reach Steady State? T/F
+0 days 00:08:52,0 days 00:09:42,3.1,0.0,1.0,,,1514.3941635039998,15.579199999999998,107.4,0.8480000000000001,False,False
+0 days 00:11:53,0 days 00:12:43,3.8,0.0,2.0,7.0,1.6,2233.863103496296,22.981481481481477,138.2962962962963,1.0348148148148146,True,False
+0 days 00:14:03,0 days 00:14:53,4.4,0.0,3.0,9.0,4.0,2400.48165619375,24.69625,154.59375,1.0718750000000001,True,False
